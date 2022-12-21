@@ -37,9 +37,9 @@ class Menu extends Component {
                             <li className="nav-item">
                                 <Link className="nav-link" to='PageEquipos'>Equipos</Link>
                             </li>
-                            <li className="nav-item">
+                            {/* <li className="nav-item">
                                 <a className="nav-link disabled">Menú Marcadores Deportivos</a>
-                            </li>
+                            </li> */}
                         </ul>
                     </div>
                 </div>
