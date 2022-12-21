@@ -1,12 +1,12 @@
 import { Component } from 'react';
-import Menu from "./components/Menu"
+// import Menu from "./components/Menu"
 import {BrowserRouter as Router, Routes,Route} from'react-router-dom'
-import PageDeportes from './components/PageDeportes';
+/* import PageDeportes from './components/PageDeportes';
 import PageEquipos from './components/PageEquipos';
-import PageEventos from './components/PageEventos';
+import PageEventos from './components/PageEventos'; */
 import PageInicio from './components/PageInicio';
-import PageSesion from './components/PageSesion';
-import PageUsuarios from './components/PageUsuarios';
+/* import PageSesion from './components/PageSesion';
+import PageUsuarios from './components/PageUsuarios'; */
 import MenuInicial from './components/MenuInicial';
 import PageEntrar from './components/PageEntrar';
 import PageSalir from './components/PageSalir';
